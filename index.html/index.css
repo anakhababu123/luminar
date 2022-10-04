@@ -1,0 +1,147 @@
+.a{
+    width: 100%;
+    height: 40px;
+    background-color: rgba(100, 15, 137, 0.786);
+}
+#b{
+    margin-left: 400px;
+}
+#c{
+    margin-left: 135px;
+    width: 275px;
+    height: 78px;
+}
+#n{
+    width: 100%;
+    height: 475px;
+} 
+#p13{
+    background-color: rgb(94, 6, 138);
+}
+#p13:hover{
+    background-color: rgb(128, 12, 170);
+}
+#d{
+    position:sticky;
+    top: 0px;
+}
+.slider-content{
+    position:relative;
+    width: 100%;
+    height: 100%;
+    margin-top: 0px;
+}
+#j{
+    margin-top: -150px;
+    text-align: center;
+}
+#img{
+    margin-top: 80px;
+}
+#f1{
+    margin-top: 100px;
+}
+.btn{
+    height: 63px;
+    width:  162px;
+    border:solid 2px rgb(62, 20, 100);
+    margin-top: 50px;
+    border-radius: 67PX;
+    background-color: rgb(82, 6, 137);
+    color: white;
+}
+.btn:hover{
+    background-color: white;
+    color: rgb(635, 14, 112);
+}
+
+    
+#u2{
+    background-color:#f7f7f5;
+    height: 700px;
+    width: 100%;
+    text-align: center;
+    
+    
+}
+#h1{
+    margin-top: 100px;
+}
+#kl{
+    height: 400px;
+    width: 1000px;
+    background-color: white;
+    /* background-size: cover;
+    background-image: url(./LUMINAR_SITE/img2.jpg);
+    margin-left: 100px;
+    transition: box-shadow .3s; */
+}
+#io{
+    height: 368px;
+    width: 477px;
+}
+#jk{
+    
+    width: 100%;
+    background-color:#f7f7f5 ;
+}
+#jm{
+    margin-top: -452px;
+    margin-left: 600px;
+    height: 469px;
+    font-family:'poppins',sans-serif;
+    font-size: 14px;
+    color: #414141
+}
+#rm{
+    margin-top: -468px;
+    margin-left: 1000px;
+    height: 469px;
+    font-family:'poppins',sans-serif;
+    font-size: 14px;
+    color: #414141
+}
+#sg{
+   margin-left:  200px;
+   margin-top: -452;
+   height: 463px;
+   font-family:'poppins',sans-serif;
+   font-size: 14px;
+   color: #414141
+}
+#v{
+    height: 63px;
+    width:  162px;
+    border:solid 2px  #5e068a;
+    margin-top: 50px;
+    border-radius: 67PX;
+    background-color:  white;
+    margin-left: 700px;
+    color:#5e068a;
+}
+#v:hover{
+    color: white;
+   background-color:#5e068a ;
+    
+}
+#qw{
+    height: 50px;
+    width: 125px;
+    border-radius: 0px;
+    margin-left: 72px;
+}
+#tg{
+    height: 50px;
+    width: 125px;
+    border-radius: 0px;
+    margin-left: 40px;
+    /* margin-bottom: 30px; */
+}
+/* #ik{ */
+    /* height: 50px;
+    width: 125px;
+    border-radius: 0px;
+    margin-left: 100px;
+    margin-top: 60px;
+} */
+
